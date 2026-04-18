@@ -28,8 +28,8 @@ module.exports.run = async function ({ api, event }) {
 
  const { commands, events } = global.client;
  const globalPrefix = global.config.PREFIX || "/";
- const botName = global.config.BOTNAME || "SAHU ISLAMIC BOT";
- const ownerName = global.config.AuthorName || "SHAHADAT SAHU";
+ const botName = global.config.BOTNAME || "SHiLa BOT";
+ const ownerName = global.config.AuthorName || "Tmk valobashi Na";
  const ownerUID = (global.config.ADMINBOT || [])[0] || "N/A";
  const authorImg = global.config.AuthorImgur || global.config.AnthorPhoto|| null;
 
