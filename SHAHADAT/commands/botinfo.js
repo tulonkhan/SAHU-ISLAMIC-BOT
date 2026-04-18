@@ -18,8 +18,8 @@ module.exports.run = async function ({ api, event }) {
 
  const conf = global.config || {};
 
- const botName = conf.BOTNAME || "SAHU ISLAMIC BOT";
- const ownerName = conf.AuthorName || "SHAHADAT SAHU";
+ const botName = conf.BOTNAME || "SHiLa BOT";
+ const ownerName = conf.AuthorName || "Tmk Valobashi Na";
  const prefix = conf.PREFIX || "/";
 
  const uptime = process.uptime();
