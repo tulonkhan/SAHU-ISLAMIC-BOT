@@ -46,7 +46,7 @@
     "AuthorMessenger": "Celebrity দের এইসব লাগে না",
     "AuthorWhatsApp": "Celebrity দের এইসব লাগে না",
     "AuthorTelegram": "Celebrity দের এইসব লাগে না",
-    "APPSTATEPATH": "cokiState.json",
+    "APPSTATEPATH": "appstate.json",
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
